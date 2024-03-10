@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "Name" : "Sadia Ahmed",
+        "Age" : 21,
+        "Top Artist" : "Bryson Tiller"
+    },
+    {
+        "id": 2,
+        "Name" : "John Smith",
+        "Age" : 25,
+        "Top Artist" : "Ed Sheeran"
+    },
+    {
+        "id": 3,
+        "Name" : "Alice Johnson",
+        "Age" : 30,
+        "Top Artist" : "Taylor Swift"
+    },
+    {
+        "id": 4,
+        "Name" : "Michael Brown",
+        "Age" : 22,
+        "Top Artist" : "Drake"
+    },
+    {
+        "id": 5,
+        "Name" : "Emily Davis",
+        "Age" : 28,
+        "Top Artist" : "Ariana Grande"
+    },
+    {
+        "id": 6,
+        "Name" : "James Wilson",
+        "Age" : 24,
+        "Top Artist" : "Kanye West"
+    },
+    {
+        "id": 7,
+        "Name" : "Sarah Thompson",
+        "Age" : 27,
+        "Top Artist" : "Rihanna"
+    },
+    {
+        "id": 8,
+        "Name" : "David Martinez",
+        "Age" : 29,
+        "Top Artist" : "Coldplay"
+    },
+    {
+        "id": 9,
+        "Name" : "Jessica Lee",
+        "Age" : 26,
+        "Top Artist" : "Bruno Mars"
+    },
+    {
+        "id": 10,
+        "Name" : "Daniel Garcia",
+        "Age" : 23,
+        "Top Artist" : "The Weeknd"
+    },
+    {
+        "id": 11,
+        "Name" : "Maria Hernandez",
+        "Age" : 31,
+        "Top Artist" : "Beyonce"
+    },
+    {
+        "id": 12,
+        "Name" : "Chris Jackson",
+        "Age" : 32,
+        "Top Artist" : "Kendrick Lamar"
+    },
+    {
+        "id": 13,
+        "Name" : "Sophia White",
+        "Age" : 20,
+        "Top Artist" : "Justin Bieber"
+    },
+    {
+        "id": 14,
+        "Name" : "Andrew Adams",
+        "Age" : 33,
+        "Top Artist" : "Linkin Park"
+    },
+    {
+        "id": 15,
+        "Name" : "Olivia Moore",
+        "Age" : 29,
+        "Top Artist" : "Maroon 5"
+    },
+    {
+        "id": 16,
+        "Name" : "Ethan Clark",
+        "Age" : 27,
+        "Top Artist" : "Eminem"
+    },
+    {
+        "id": 17,
+        "Name" : "Mia Lewis",
+        "Age" : 24,
+        "Top Artist" : "Sia"
+    },
+    {
+        "id": 18,
+        "Name" : "Nathan Turner",
+        "Age" : 25,
+        "Top Artist" : "Sam Smith"
+    },
+    {
+        "id": 19,
+        "Name" : "Isabella Scott",
+        "Age" : 28,
+        "Top Artist" : "Lana Del Rey"
+    },
+    {
+        "id": 20,
+        "Name" : "William Rodriguez",
+        "Age" : 30,
+        "Top Artist" : "Imagine Dragons"
+    },
+    {
+        "id": 21,
+        "Name" : "Sophie King",
+        "Age" : 22,
+        "Top Artist" : "Shawn Mendes"
+    },
+    {
+        "id": 22,
+        "Name" : "Mahathir Rojan",
+        "Age" : 20,
+        "Top Artist" : "The Weeknd"
+    },
+    {
+        "id": 23,
+        "Name" : "Aurnab Das",
+        "Age" : 20,
+        "Top Artist" : "Rihanna"
+    },
+    {
+        "id": 24,
+        "Name" : "Akshay Hanooman",
+        "Age" : 21,
+        "Top Artist" : "Drake"
+    },
+    {
+        "id": 25,
+        "Name" : "Arham Razin",
+        "Age" : 20,
+        "Top Artist" : "SZA"
+    },
+    {
+        "id": 26,
+        "Name" : "Muhammed Cheema",
+        "Age" : 20,
+        "Top Artist" : "Bryson Tiller"
+    }
+]
